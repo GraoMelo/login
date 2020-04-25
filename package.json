@@ -6,7 +6,7 @@
   "dependencies": {
     "@material-ui/core": "^4.9.2",
     "@material-ui/icons": "^4.9.1",
-    "bootstrap": "4.3.1",
+    "bootstrap": "4.4.1",
     "eth-crypto": "^1.5.1",
     "ethereumjs-tx": "^2.1.2",
     "ethereumjs-util": "^6.2.0",
